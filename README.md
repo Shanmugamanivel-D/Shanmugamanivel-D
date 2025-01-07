@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shanmugamanivel-D
-- 👀 I’m interested in Cloud computing 
+- 👀 I’m interested in Cloud computing - AWS - Microsoft Azure
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on where i can start my career in IT Domain
 - 📫 How to reach me - MailID - shanmugamanivel18@gmail.com
